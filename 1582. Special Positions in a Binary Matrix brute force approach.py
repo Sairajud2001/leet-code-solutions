@@ -20,4 +20,4 @@ class Solution:
                     total+=1
                 count=0
         return total
-"""insted of while we can use for loop to it reduse the time complaxity too"""
+"""insted of while loop we can use for loop to it reduse the time complaxity little bit """
